@@ -1,0 +1,15 @@
+{
+  "name": "duplicate",
+  "version": "1.0.0",
+  "description": "Find duplicate links and warn people",
+  "main": "src/duplicate.js",
+  "author": "Jonathan Querubina <jotadev@me.com>",
+  "contributors": [],
+  "license": "MIT",
+  "giskard": {
+    "module": "Duplicate",
+    "created": "Tue Jun 07 2016 23:03:22 GMT-0300 (BRT)",
+    "help": {}
+  },
+  "dependencies": {}
+}
